@@ -1,0 +1,12 @@
+h1 { 
+    color: BLACK; }
+ * { border: solid; 
+ } 
+
+ .background{
+    background-color: orange;
+}
+p,h1{
+    text-align: center;
+}
+
